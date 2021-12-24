@@ -1,11 +1,3 @@
-# 
-
-
-# technologies
-
-![Intro GIF](https://github.com/dilbwagsingh/dilbwagsingh/blob/main/intro.gif)
-
-
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay fullstack developer-
 
