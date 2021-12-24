@@ -7,8 +7,6 @@
 <img src="" width="30px">
 <img src="" width="30px">
 <img src="" width="30px">
-<img src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg" width="30px">
-
-
+<img src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg" width="30px"><br/>
 <img src="https://cdn.auth0.com/blog/optimizing-react/logo.png" width="30px">
 
